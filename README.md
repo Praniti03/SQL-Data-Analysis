@@ -25,13 +25,14 @@ Use nested queries for deeper analysis
 Create VIEWs to store frequent analysis queries
 
 
+
 📦 SQL Queries
-Top 10 most rated restaurants by customers
+1. Top 10 most rated restaurants by customers
 
-Average cost for two by cuisine type
+2. Average cost for two by cuisine type
 
-Number of restaurants offering online delivery in each city
+3. Number of restaurants offering online delivery in each city
 
-Best-rated restaurants offering both delivery and dine-in
+4. Best-rated restaurants offering both delivery and dine-in
 
-Count of restaurants per price range and location
+5. Count of restaurants per price range and location
